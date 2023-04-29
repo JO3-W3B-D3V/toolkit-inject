@@ -1,7 +1,9 @@
 {
   "name": "@toolkit/inject",
+  "private": false,
   "author": "Joseph Evans",
   "license": "MIT",
+  "readmeFilename": "README.md",
   "version": "1.0.0",
   "description": "A relatively simplistic dependency injection library.",
   "module": "./lib/index.js",
